@@ -1,4 +1,4 @@
-**Git - Principais comandos**
+# Git - Principais comandos
 
 Antes de qualquer interação com o git, você precisa informar quem é você para que ele armazene corretamente os dados do autor de cada uma das alterações no código.
 
@@ -6,7 +6,7 @@ git config --local user.name "Seu nome aqui": (Parâmetro --local faz as altera�
 
 git config --local user.email "seu@email.aqui"
 
-**Comandos Git**
+## Comandos Git
 
 git init: Inicia um repositório no git. Para isso é necessário está dentro da pasta do projeto.
 
